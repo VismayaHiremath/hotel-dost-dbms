@@ -76,6 +76,22 @@ hotel-dost-dbms
    http://localhost/hotel-dost-dbms/public/home.php
    
 ---
+## Application Preview
+
+### Home Page
+![Home Page](assets/screenshots/home-page.png)
+
+### Booking Form
+![Booking Form](assets/screenshots/booking-form.png)
+
+### Booking Confirmation
+![Booking Confirmation](assets/screenshots/booking-confirmation.png)
+
+### About Page
+![About Page](assets/screenshots/about-page.png)
+
+### Contact Page
+![Contact Page](assets/screenshots/contact-page.png)
 
 ## Author
 
