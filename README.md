@@ -93,6 +93,10 @@ hotel-dost-dbms
 ### Contact Page
 ![Contact Page](assets/screenshots/contact-page.png)
 
+## Database ER Diagram
+
+![ER Diagram](docs/er-diagram.png)
+
 ## Author
 
 Vismaya Hiremath  
