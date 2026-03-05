@@ -1,7 +1,8 @@
 # Hotel Dost – Hotel Booking Management System
 
-Hotel Dost is a hotel booking management system developed as part of a DBMS project.  
-The system allows users to reserve rooms, manage guest details, and process payments through a structured database-driven workflow.
+A database-driven hotel booking management system built using **PHP, MySQL, HTML, CSS, and JavaScript**.
+
+The system allows users to reserve rooms, manage guest details, and process bookings through a structured database workflow.
 
 ---
 
