@@ -97,6 +97,15 @@ hotel-dost-dbms
 
 ![ER Diagram](docs/er-diagram.png)
 
+## Project Demo Flow
+
+1. User visits the Home Page of the hotel booking system.
+2. User navigates to the Booking Form.
+3. User enters guest and reservation details.
+4. The backend processes the request using PHP and PDO.
+5. Data is stored in the MySQL database (Guests, Reservations, Payments).
+6. A booking confirmation message is displayed to the user.
+
 ## Author
 
 Vismaya Hiremath  
